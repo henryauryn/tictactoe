@@ -1,2 +1,2 @@
 # tictactoe
-command line tic-tac-toe
+## command line tic-tac-toe
